@@ -1,0 +1,13 @@
+12
+0 cat
+1 dogville
+0 dog
+1 dogville
+1 gooutwithcat
+1 gooutwithcrocodile
+1 fancyconcatenation
+0 crocodile
+1 lacoste
+1 gooutwithcrocodile
+1 catalanreferendum
+1 rocodile
